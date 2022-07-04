@@ -1,0 +1,117 @@
+nohup: ignoring input
+[32m[I 2022-06-29 01:16:54,468][0m A new study created in memory with name: no-name-b4ae69de-9491-47cd-a2e3-f5332a0bd031[0m
+[32m[I 2022-06-29 01:38:43,342][0m Trial 0 finished with value: 0.7865 and parameters: {'lr': 0.0041706746086860435, 'weight_decay': 0.002854846651490113, 'dropout': 0.2986560849056378, 'patience': 65, 'lr_reduce_freq': 160, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.454363953977534, 'tem': 0.5458520795205024, 'consis_rate': 1.6743849767254384, 'use_att': 1}. Best is trial 0 with value: 0.7865.[0m
+[32m[I 2022-06-29 02:06:49,875][0m Trial 1 finished with value: 0.7519 and parameters: {'lr': 0.003939112003051086, 'weight_decay': 0.002919573025475757, 'dropout': 0.27864366938386603, 'patience': 70, 'lr_reduce_freq': 160, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 2, 'add_rate': 0.4502773968072859, 'tem': 0.8717906306274832, 'consis_rate': 0.8665076871231863, 'use_att': 1}. Best is trial 0 with value: 0.7865.[0m
+[32m[I 2022-06-29 02:53:03,383][0m Trial 2 finished with value: 0.7902 and parameters: {'lr': 0.006372462755907828, 'weight_decay': 0.002585582522997126, 'dropout': 0.22339099447946878, 'patience': 55, 'lr_reduce_freq': 145, 'spt_alg': 'kruskal', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.48554868596412754, 'tem': 0.7615865220355996, 'consis_rate': 1.3665066668758772, 'use_att': 1}. Best is trial 2 with value: 0.7902.[0m
+[32m[I 2022-06-29 03:28:51,848][0m Trial 3 finished with value: 0.2963 and parameters: {'lr': 0.0032680141440582745, 'weight_decay': 0.002886871892680513, 'dropout': 0.44978686815654656, 'patience': 60, 'lr_reduce_freq': 160, 'spt_alg': 'kruskal', 'spt_attr': 'edge_degree', 'manifold': 'Hyperboloid', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.478649381786306, 'tem': 0.5862959870891917, 'consis_rate': 0.5523371643477749, 'use_att': 1}. Best is trial 2 with value: 0.7902.[0m
+[32m[I 2022-06-29 03:51:14,559][0m Trial 4 finished with value: 0.46449999999999997 and parameters: {'lr': 0.006174748123650872, 'weight_decay': 0.0019094884603893842, 'dropout': 0.49748754345355484, 'patience': 60, 'lr_reduce_freq': 150, 'spt_alg': 'kruskal', 'spt_attr': 'similarity', 'manifold': 'PoincareBall', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.5413426054503154, 'tem': 0.6744476092207969, 'consis_rate': 1.9840683633376608, 'use_att': 1}. Best is trial 2 with value: 0.7902.[0m
+[32m[I 2022-06-29 04:39:33,306][0m Trial 5 finished with value: 0.6747 and parameters: {'lr': 0.004775367293299311, 'weight_decay': 0.002436971462046421, 'dropout': 0.2855036013007255, 'patience': 65, 'lr_reduce_freq': 140, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.42219041216965264, 'tem': 0.5626677075923967, 'consis_rate': 1.582097942730563, 'use_att': 1}. Best is trial 2 with value: 0.7902.[0m
+[32m[I 2022-06-29 05:17:08,992][0m Trial 6 finished with value: 0.5823999999999999 and parameters: {'lr': 0.005260222599585939, 'weight_decay': 0.001831277923295128, 'dropout': 0.4404556239461353, 'patience': 65, 'lr_reduce_freq': 140, 'spt_alg': 'kruskal', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.49109046662739697, 'tem': 0.8367766733311148, 'consis_rate': 1.3208647182634299, 'use_att': 1}. Best is trial 2 with value: 0.7902.[0m
+[32m[I 2022-06-29 05:57:33,811][0m Trial 7 finished with value: 0.7921 and parameters: {'lr': 0.004831405899788239, 'weight_decay': 0.0014027202230679704, 'dropout': 0.4338707468706758, 'patience': 55, 'lr_reduce_freq': 155, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.4160213641613738, 'tem': 0.7150255776139244, 'consis_rate': 0.6122939520436546, 'use_att': 1}. Best is trial 7 with value: 0.7921.[0m
+[32m[I 2022-06-29 06:04:55,367][0m Trial 8 finished with value: 0.4006 and parameters: {'lr': 0.0028552136104886554, 'weight_decay': 0.0015657650877759998, 'dropout': 0.24367725995220393, 'patience': 60, 'lr_reduce_freq': 150, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'Hyperboloid', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.5525271800779614, 'tem': 0.715304562059284, 'consis_rate': 0.9574549536628605, 'use_att': 0}. Best is trial 7 with value: 0.7921.[0m
+[32m[I 2022-06-29 08:27:24,006][0m Trial 9 finished with value: 0.751 and parameters: {'lr': 0.003527148820127323, 'weight_decay': 0.0012044822728899936, 'dropout': 0.24806793346124378, 'patience': 70, 'lr_reduce_freq': 150, 'spt_alg': 'kruskal', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 4, 'num_adj': 6, 'add_rate': 0.5950791435646572, 'tem': 0.8832421642001689, 'consis_rate': 1.232970200054224, 'use_att': 1}. Best is trial 7 with value: 0.7921.[0m
+[32m[I 2022-06-29 08:40:33,371][0m Trial 10 finished with value: 0.6658999999999999 and parameters: {'lr': 0.0022795533043974106, 'weight_decay': 0.0010779663193523474, 'dropout': 0.37986668871988216, 'patience': 50, 'lr_reduce_freq': 155, 'spt_alg': 'prim', 'spt_attr': 'similarity', 'manifold': 'Hyperboloid', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.4015900050743878, 'tem': 0.6493565571676397, 'consis_rate': 0.2802405676591707, 'use_att': 0}. Best is trial 7 with value: 0.7921.[0m
+[32m[I 2022-06-29 08:46:34,115][0m Trial 11 finished with value: 0.7812 and parameters: {'lr': 0.0066357443058537805, 'weight_decay': 0.0023972477762594104, 'dropout': 0.20139506658566309, 'patience': 50, 'lr_reduce_freq': 145, 'spt_alg': 'kruskal', 'spt_attr': 'similarity', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.5122155064471406, 'tem': 0.7570381440678466, 'consis_rate': 0.6835864676739996, 'use_att': 0}. Best is trial 7 with value: 0.7921.[0m
+[32m[I 2022-06-29 09:32:32,657][0m Trial 12 finished with value: 0.7921 and parameters: {'lr': 0.005641565004062301, 'weight_decay': 0.002301263845209317, 'dropout': 0.34978225052606826, 'patience': 55, 'lr_reduce_freq': 145, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.4384075465046109, 'tem': 0.7802097162562738, 'consis_rate': 0.27151965682820356, 'use_att': 1}. Best is trial 7 with value: 0.7921.[0m
+[32m[I 2022-06-29 10:07:47,446][0m Trial 13 finished with value: 0.7936 and parameters: {'lr': 0.005588785548553307, 'weight_decay': 0.0015702867123166676, 'dropout': 0.3611706263240056, 'patience': 55, 'lr_reduce_freq': 145, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.4355815852359541, 'tem': 0.7904541332270896, 'consis_rate': 0.2735870173129957, 'use_att': 1}. Best is trial 13 with value: 0.7936.[0m
+[32m[I 2022-06-29 11:07:06,867][0m Trial 14 finished with value: 0.6536 and parameters: {'lr': 0.004873612498907127, 'weight_decay': 0.001499321732043278, 'dropout': 0.3673024666515253, 'patience': 55, 'lr_reduce_freq': 155, 'spt_alg': 'prim', 'spt_attr': 'similarity', 'manifold': 'Hyperboloid', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.40292928608728174, 'tem': 0.8193905795544115, 'consis_rate': 0.5687581766989855, 'use_att': 1}. Best is trial 13 with value: 0.7936.[0m
+[32m[I 2022-06-29 11:13:34,043][0m Trial 15 finished with value: 0.78 and parameters: {'lr': 0.005533643920998666, 'weight_decay': 0.0014349889973809104, 'dropout': 0.4145814746744394, 'patience': 55, 'lr_reduce_freq': 155, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.42726960780108736, 'tem': 0.6220861828496915, 'consis_rate': 0.21912911434810287, 'use_att': 0}. Best is trial 13 with value: 0.7936.[0m
+[32m[I 2022-06-29 11:42:22,818][0m Trial 16 finished with value: 0.7902 and parameters: {'lr': 0.0069679958497660816, 'weight_decay': 0.0017023307516760618, 'dropout': 0.3329210320922922, 'patience': 50, 'lr_reduce_freq': 145, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.468016969577279, 'tem': 0.7220055444676656, 'consis_rate': 0.7425717274119955, 'use_att': 1}. Best is trial 13 with value: 0.7936.[0m
+[32m[I 2022-06-29 12:28:22,114][0m Trial 17 finished with value: 0.7911 and parameters: {'lr': 0.0058681951661771516, 'weight_decay': 0.002194770073472873, 'dropout': 0.32606076453734123, 'patience': 55, 'lr_reduce_freq': 145, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.4421490870749983, 'tem': 0.8021273069590364, 'consis_rate': 0.38984435128035644, 'use_att': 1}. Best is trial 13 with value: 0.7936.[0m
+cmd: --dataset cora --model HGCN --c None --dim 16
+cur_param: {'lr': 0.0041706746086860435, 'weight_decay': 0.002854846651490113, 'dropout': 0.2986560849056378, 'patience': 65, 'lr_reduce_freq': 160, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.454363953977534, 'tem': 0.5458520795205024, 'consis_rate': 1.6743849767254384, 'use_att': 1}
+mean: 0.7865
+[0.798 0.773 0.788 0.769 0.799 0.777 0.794 0.771 0.791 0.805]
+cur_param: {'lr': 0.003939112003051086, 'weight_decay': 0.002919573025475757, 'dropout': 0.27864366938386603, 'patience': 70, 'lr_reduce_freq': 160, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 2, 'add_rate': 0.4502773968072859, 'tem': 0.8717906306274832, 'consis_rate': 0.8665076871231863, 'use_att': 1}
+mean: 0.7519
+[0.779 0.807 0.764 0.767 0.806 0.497 0.755 0.772 0.803 0.769]
+cur_param: {'lr': 0.006372462755907828, 'weight_decay': 0.002585582522997126, 'dropout': 0.22339099447946878, 'patience': 55, 'lr_reduce_freq': 145, 'spt_alg': 'kruskal', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.48554868596412754, 'tem': 0.7615865220355996, 'consis_rate': 1.3665066668758772, 'use_att': 1}
+mean: 0.7902
+[0.798 0.81  0.755 0.764 0.807 0.781 0.797 0.789 0.808 0.793]
+cur_param: {'lr': 0.0032680141440582745, 'weight_decay': 0.002886871892680513, 'dropout': 0.44978686815654656, 'patience': 60, 'lr_reduce_freq': 160, 'spt_alg': 'kruskal', 'spt_attr': 'edge_degree', 'manifold': 'Hyperboloid', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.478649381786306, 'tem': 0.5862959870891917, 'consis_rate': 0.5523371643477749, 'use_att': 1}
+mean: 0.2963
+[0.163 0.561 0.247 0.287 0.245 0.409 0.304 0.237 0.305 0.205]
+cur_param: {'lr': 0.006174748123650872, 'weight_decay': 0.0019094884603893842, 'dropout': 0.49748754345355484, 'patience': 60, 'lr_reduce_freq': 150, 'spt_alg': 'kruskal', 'spt_attr': 'similarity', 'manifold': 'PoincareBall', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.5413426054503154, 'tem': 0.6744476092207969, 'consis_rate': 1.9840683633376608, 'use_att': 1}
+mean: 0.46449999999999997
+[0.546 0.599 0.297 0.407 0.528 0.465 0.453 0.41  0.319 0.621]
+cur_param: {'lr': 0.004775367293299311, 'weight_decay': 0.002436971462046421, 'dropout': 0.2855036013007255, 'patience': 65, 'lr_reduce_freq': 140, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.42219041216965264, 'tem': 0.5626677075923967, 'consis_rate': 1.582097942730563, 'use_att': 1}
+mean: 0.6747
+[0.579 0.768 0.732 0.717 0.73  0.7   0.73  0.671 0.354 0.766]
+cur_param: {'lr': 0.005260222599585939, 'weight_decay': 0.001831277923295128, 'dropout': 0.4404556239461353, 'patience': 65, 'lr_reduce_freq': 140, 'spt_alg': 'kruskal', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.49109046662739697, 'tem': 0.8367766733311148, 'consis_rate': 1.3208647182634299, 'use_att': 1}
+mean: 0.5823999999999999
+[0.484 0.718 0.7   0.402 0.669 0.674 0.643 0.403 0.406 0.725]
+cur_param: {'lr': 0.004831405899788239, 'weight_decay': 0.0014027202230679704, 'dropout': 0.4338707468706758, 'patience': 55, 'lr_reduce_freq': 155, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.4160213641613738, 'tem': 0.7150255776139244, 'consis_rate': 0.6122939520436546, 'use_att': 1}
+mean: 0.7921
+[0.811 0.764 0.775 0.793 0.78  0.804 0.808 0.795 0.78  0.811]
+cur_param: {'lr': 0.0028552136104886554, 'weight_decay': 0.0015657650877759998, 'dropout': 0.24367725995220393, 'patience': 60, 'lr_reduce_freq': 150, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'Hyperboloid', 'num_layers': 4, 'num_adj': 2, 'add_rate': 0.5525271800779614, 'tem': 0.715304562059284, 'consis_rate': 0.9574549536628605, 'use_att': 0}
+mean: 0.4006
+[0.286 0.384 0.387 0.361 0.357 0.719 0.624 0.209 0.424 0.255]
+cur_param: {'lr': 0.003527148820127323, 'weight_decay': 0.0012044822728899936, 'dropout': 0.24806793346124378, 'patience': 70, 'lr_reduce_freq': 150, 'spt_alg': 'kruskal', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 4, 'num_adj': 6, 'add_rate': 0.5950791435646572, 'tem': 0.8832421642001689, 'consis_rate': 1.232970200054224, 'use_att': 1}
+mean: 0.751
+[0.77  0.753 0.77  0.769 0.753 0.695 0.752 0.745 0.739 0.764]
+cur_param: {'lr': 0.0022795533043974106, 'weight_decay': 0.0010779663193523474, 'dropout': 0.37986668871988216, 'patience': 50, 'lr_reduce_freq': 155, 'spt_alg': 'prim', 'spt_attr': 'similarity', 'manifold': 'Hyperboloid', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.4015900050743878, 'tem': 0.6493565571676397, 'consis_rate': 0.2802405676591707, 'use_att': 0}
+mean: 0.6658999999999999
+[0.481 0.781 0.781 0.7   0.762 0.712 0.479 0.705 0.558 0.7  ]
+cur_param: {'lr': 0.0066357443058537805, 'weight_decay': 0.0023972477762594104, 'dropout': 0.20139506658566309, 'patience': 50, 'lr_reduce_freq': 145, 'spt_alg': 'kruskal', 'spt_attr': 'similarity', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.5122155064471406, 'tem': 0.7570381440678466, 'consis_rate': 0.6835864676739996, 'use_att': 0}
+mean: 0.7812
+[0.77  0.792 0.775 0.795 0.774 0.755 0.803 0.78  0.799 0.769]
+cur_param: {'lr': 0.005641565004062301, 'weight_decay': 0.002301263845209317, 'dropout': 0.34978225052606826, 'patience': 55, 'lr_reduce_freq': 145, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.4384075465046109, 'tem': 0.7802097162562738, 'consis_rate': 0.27151965682820356, 'use_att': 1}
+mean: 0.7921
+[0.78  0.804 0.79  0.794 0.793 0.769 0.798 0.803 0.794 0.796]
+cur_param: {'lr': 0.005588785548553307, 'weight_decay': 0.0015702867123166676, 'dropout': 0.3611706263240056, 'patience': 55, 'lr_reduce_freq': 145, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.4355815852359541, 'tem': 0.7904541332270896, 'consis_rate': 0.2735870173129957, 'use_att': 1}
+mean: 0.7936
+[0.811 0.788 0.783 0.797 0.79  0.795 0.8   0.79  0.787 0.795]
+cur_param: {'lr': 0.004873612498907127, 'weight_decay': 0.001499321732043278, 'dropout': 0.3673024666515253, 'patience': 55, 'lr_reduce_freq': 155, 'spt_alg': 'prim', 'spt_attr': 'similarity', 'manifold': 'Hyperboloid', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.40292928608728174, 'tem': 0.8193905795544115, 'consis_rate': 0.5687581766989855, 'use_att': 1}
+mean: 0.6536
+[0.533 0.75  0.437 0.777 0.763 0.707 0.747 0.729 0.343 0.75 ]
+cur_param: {'lr': 0.005533643920998666, 'weight_decay': 0.0014349889973809104, 'dropout': 0.4145814746744394, 'patience': 55, 'lr_reduce_freq': 155, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.42726960780108736, 'tem': 0.6220861828496915, 'consis_rate': 0.21912911434810287, 'use_att': 0}
+mean: 0.78
+[0.765 0.797 0.791 0.778 0.788 0.778 0.793 0.769 0.766 0.775]
+cur_param: {'lr': 0.0069679958497660816, 'weight_decay': 0.0017023307516760618, 'dropout': 0.3329210320922922, 'patience': 50, 'lr_reduce_freq': 145, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 4, 'add_rate': 0.468016969577279, 'tem': 0.7220055444676656, 'consis_rate': 0.7425717274119955, 'use_att': 1}
+mean: 0.7902
+[0.785 0.777 0.796 0.785 0.768 0.795 0.823 0.786 0.788 0.799]
+cur_param: {'lr': 0.0058681951661771516, 'weight_decay': 0.002194770073472873, 'dropout': 0.32606076453734123, 'patience': 55, 'lr_reduce_freq': 145, 'spt_alg': 'prim', 'spt_attr': 'edge_degree', 'manifold': 'PoincareBall', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.4421490870749983, 'tem': 0.8021273069590364, 'consis_rate': 0.38984435128035644, 'use_att': 1}
+mean: 0.7911
+[0.795 0.799 0.772 0.788 0.797 0.787 0.802 0.798 0.786 0.787]
+cur_param: {'lr': 0.005483507444966089, 'weight_decay': 0.0021015356543263104, 'dropout': 0.39766056589312404, 'patience': 60, 'lr_reduce_freq': 140, 'spt_alg': 'prim', 'spt_attr': 'similarity', 'manifold': 'Hyperboloid', 'num_layers': 3, 'num_adj': 6, 'add_rate': 0.43285008910824263, 'tem': 0.7794302395044708, 'consis_rate': 0.41905968121971415, 'use_att': 0}[33m[W 2022-06-29 12:28:25,714][0m Trial 18 failed because of the following error: RuntimeError('CUDA out of memory. Tried to allocate 16.00 MiB (GPU 0; 31.75 GiB total capacity; 1007.30 MiB already allocated; 6.75 MiB free; 1.06 GiB reserved in total by PyTorch)')[0m
+Traceback (most recent call last):
+  File "/usr/local/anaconda3/envs/d80/lib/python3.7/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
+    value_or_values = func(trial)
+  File "train.py", line 303, in _objective
+    result = train(args)
+  File "train.py", line 155, in train
+    embeddings = model.encode(data['features'],  adj4dgl_list[i])
+  File "/root/Downloads/lyx/copt_tune/models/base_models.py", line 41, in encode
+    h = self.encoder.encode(x, adj)
+  File "/root/Downloads/lyx/copt_tune/models/encoders.py", line 60, in encode
+    x_hyp = self.manifold.expmap0(x_tan, c=self.curvatures[0])
+  File "/root/Downloads/lyx/copt_tune/manifolds/hyperboloid.py", line 100, in expmap0
+    res[:, 1:] = sqrtK * sinh(theta) * x / x_norm
+RuntimeError: CUDA out of memory. Tried to allocate 16.00 MiB (GPU 0; 31.75 GiB total capacity; 1007.30 MiB already allocated; 6.75 MiB free; 1.06 GiB reserved in total by PyTorch)
+
+Traceback (most recent call last):
+  File "train.py", line 343, in <module>
+    result = tool.run()
+  File "train.py", line 317, in run
+    study.optimize(self._objective, n_trials=self.n_trials, n_jobs=self.jobs)
+  File "/usr/local/anaconda3/envs/d80/lib/python3.7/site-packages/optuna/study/study.py", line 409, in optimize
+    show_progress_bar=show_progress_bar,
+  File "/usr/local/anaconda3/envs/d80/lib/python3.7/site-packages/optuna/study/_optimize.py", line 76, in _optimize
+    progress_bar=progress_bar,
+  File "/usr/local/anaconda3/envs/d80/lib/python3.7/site-packages/optuna/study/_optimize.py", line 163, in _optimize_sequential
+    trial = _run_trial(study, func, catch)
+  File "/usr/local/anaconda3/envs/d80/lib/python3.7/site-packages/optuna/study/_optimize.py", line 264, in _run_trial
+    raise func_err
+  File "/usr/local/anaconda3/envs/d80/lib/python3.7/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
+    value_or_values = func(trial)
+  File "train.py", line 303, in _objective
+    result = train(args)
+  File "train.py", line 155, in train
+    embeddings = model.encode(data['features'],  adj4dgl_list[i])
+  File "/root/Downloads/lyx/copt_tune/models/base_models.py", line 41, in encode
+    h = self.encoder.encode(x, adj)
+  File "/root/Downloads/lyx/copt_tune/models/encoders.py", line 60, in encode
+    x_hyp = self.manifold.expmap0(x_tan, c=self.curvatures[0])
+  File "/root/Downloads/lyx/copt_tune/manifolds/hyperboloid.py", line 100, in expmap0
+    res[:, 1:] = sqrtK * sinh(theta) * x / x_norm
+RuntimeError: CUDA out of memory. Tried to allocate 16.00 MiB (GPU 0; 31.75 GiB total capacity; 1007.30 MiB already allocated; 6.75 MiB free; 1.06 GiB reserved in total by PyTorch)
